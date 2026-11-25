@@ -2,9 +2,9 @@
 
 A prompt engineering project where a chain of prompts creates a complete murder mystery, and every suspect is its own AI character that can be interrogated.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/ai-murder-mystery/blob/main/notebook/murder_mystery_fixed.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shuklapeehu090-hue/AI-Murder_Mystery/blob/main/murder_mystery_fixed.ipynb)
 
-**Live website:** https://claude.ai/artifact/EvhSVPrj9thHGLLua7oLmY
+**Live website:** https://shuklapeehu090-hue.github.io/AI-Murder_Mystery/
 
 ## Tools used
 - **Google Colab:** runs the prompt chain, interrogations and the judge (Gemini API)
@@ -76,8 +76,8 @@ ai-murder-mystery/
 ├── README.md
 ├── index.html                  (website)
 ├── case.json                   (generated case, transcripts, judge scores)
-├── notebook/murder_mystery_fixed.ipynb
-└── screenshots/
+├── murder_mystery_fixed.ipynb
+└── Screenshots/
 ```
 
 ## Run it yourself
